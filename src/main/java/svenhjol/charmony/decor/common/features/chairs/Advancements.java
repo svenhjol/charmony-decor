@@ -1,4 +1,4 @@
-package svenhjol.charmony.chairs.common.features.chairs;
+package svenhjol.charmony.decor.common.features.chairs;
 
 import net.minecraft.world.entity.player.Player;
 import svenhjol.charmony.core.base.Setup;

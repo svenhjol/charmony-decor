@@ -1,4 +1,4 @@
-package svenhjol.charmony.chairs.client.features.chairs;
+package svenhjol.charmony.decor.client.features.chairs;
 
 import net.fabricmc.fabric.api.client.rendering.v1.EntityRendererRegistry;
 import svenhjol.charmony.core.base.Setup;

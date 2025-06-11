@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "id": "charmony-chairs",
+  "id": "charmony-decor",
   "version": "${mod_version}",
 
-  "name": "Charmony Chairs",
-  "description": "Sit down on stair blocks when right-clicking with an empty hand.",
+  "name": "Charmony Decor",
+  "description": "Decoration (tbc) and sitting on stair blocks.",
 
   "authors": [
     "svenhjol"
   ],
-  "icon": "assets/charmony/textures/gui/sprites/charmony-chairs.png",
+  "icon": "assets/charmony/textures/gui/sprites/charmony-decor.png",
   "license": "MIT",
   "environment": "*",
-  "accessWidener": "charmony-chairs.accesswidener",
+  "accessWidener": "charmony-decor.accesswidener",
   "entrypoints": {
     "main": [
-      "svenhjol.charmony.chairs.common.CommonInitializer"
+      "svenhjol.charmony.decor.common.CommonInitializer"
     ],
     "client": [
-      "svenhjol.charmony.chairs.client.ClientInitializer"
+      "svenhjol.charmony.decor.client.ClientInitializer"
     ]
   },
 

@@ -1,4 +1,4 @@
-package svenhjol.charmony.chairs.common.features.chairs;
+package svenhjol.charmony.decor.common.features.chairs;
 
 import net.fabricmc.fabric.api.event.player.UseBlockCallback;
 import net.minecraft.world.entity.EntityType;

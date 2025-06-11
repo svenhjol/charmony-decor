@@ -1,4 +1,4 @@
-package svenhjol.charmony.chairs.client.features.chairs;
+package svenhjol.charmony.decor.client.features.chairs;
 
 import svenhjol.charmony.api.core.FeatureDefinition;
 import svenhjol.charmony.core.base.Mod;
